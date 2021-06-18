@@ -1,5 +1,5 @@
 # MS-PRGenes
-Running modified iRIGS on multiple sclerosis (MS) data to identify risk genes for MS. 
+Running a refined iRIGS on multiple sclerosis (MS) data to identify risk genes for MS. 
 
 
 # References
